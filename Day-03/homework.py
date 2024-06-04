@@ -1,0 +1,1 @@
+print("natia,giorgi,sesili")

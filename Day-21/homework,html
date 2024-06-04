@@ -1,0 +1,12 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ჩემს შესახებ</title>
+</head>
+<body>
+    <h1>ჩემსა შესახებ/h1>
+    <p>ჩემი სახელია ლიზი და გვარად დათუკიშვილი</p>
+    <img src=" https://scontent.xx.fbcdn.net/v/t1.15752-9/430443648_434148219138367_3747431218919352712_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g4ZYX5lU310Q7kNvgEj-cfh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFYEYpuiJQiFNhF2djNHlVThsg2AStuaKeby42MvSqFHQ&oe=667FF7A7"alt="ჩემი ფოტო">
+    <p>მოკლე ინფორმაცია ჩემს შესახებ. ჩემი სახელია ლიზი დათუკიშვილი მე ვარ 14 წლის და ვცხოვრობ თბილისში მყავს უმცროსი და და ვცხოვრობ მიყრუებულ უბანში. მე მინდა რომ ვიყო წარმატებული პროგრამისტი
+</html>

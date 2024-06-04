@@ -1,0 +1,1 @@
+goa= ["batoni nika, batoni gabrieli"]

@@ -1,0 +1,10 @@
+name="lizi"
+
+surname="datukishvili"
+
+age=14
+
+height=1.60
+
+
+print(name+" "+surname+" "+str(age)+" "+str(height))
